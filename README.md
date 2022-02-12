@@ -9,7 +9,7 @@
   </a>
   
   <a href="https://github.com/MRK-YT/MT-Media-Search-bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Media-Search-bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Black-devilking/MT-Media-Search-bot?label=Fork&style=social">
 
   </a>  
 </p>
